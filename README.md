@@ -1,11 +1,7 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ensuperb)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi, I'm Ensuperb 👱‍♂️🏹 
 - 🌱 I’m currently learning ...
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ensuperb&show_icons=true&theme=dark&count_private=true)</br>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ensuperb&theme=dark&layout=compact)
 
 <!--
 **Ensuperb/Ensuperb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
